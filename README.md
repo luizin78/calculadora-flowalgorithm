@@ -1,10 +1,10 @@
-#Calculadora em Flowgorithm
+# Calculadora em Flowgorithm
 
 Projeto de uma **calculadora desenvolvida em Flowgorithm**, utilizando conceitos fundamentais de lógica de programação, estruturas condicionais, variáveis e operações matemáticas.
 
 ---
 
-##  Sobre o projeto
+# Sobre o projeto
 
 A calculadora funciona a partir de um **menu de opções**, onde o usuário escolhe qual operação deseja realizar.
 
@@ -14,7 +14,7 @@ O projeto contém **20 operações diferentes**, incluindo operações matemáti
 
 ---
 
-##  Operações disponíveis
+# Operações disponíveis
 
 | Nº | Operação             | Cálculo        |
 | -: | -------------------- | -------------- |
@@ -41,7 +41,7 @@ O projeto contém **20 operações diferentes**, incluindo operações matemáti
 
 ---
 
-##  Conceitos praticados
+# Conceitos praticados
 
 Durante o desenvolvimento foram utilizados conceitos importantes de lógica de programação:
 
@@ -58,7 +58,7 @@ Durante o desenvolvimento foram utilizados conceitos importantes de lógica de p
 
 ---
 
-##  Funcionamento
+# Funcionamento
 
 O fluxo principal do programa pode ser resumido da seguinte maneira:
 
@@ -94,7 +94,7 @@ O fluxograma utiliza uma sequência de decisões para identificar a opção esco
 
 ---
 
-##Objetivo do projeto
+# Objetivo do projeto
 
 O principal objetivo foi transformar conhecimentos teóricos de **lógica de programação** em um algoritmo funcional.
 
@@ -106,7 +106,7 @@ Este projeto representa uma das etapas da minha evolução no aprendizado de pro
 
 ---
 
-##Aprendizado
+# Aprendizado
 
 Este projeto foi desenvolvido para praticar os fundamentos que servem como base para o desenvolvimento de software.
 
@@ -116,7 +116,7 @@ A ideia principal é simples:
 
 ---
 
-### Autor
+# Autor
 
 **Luiz Eduardo**
 
